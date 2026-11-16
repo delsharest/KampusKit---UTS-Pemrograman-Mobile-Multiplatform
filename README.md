@@ -2,8 +2,6 @@
 
 Proyek UTS React Native (Expo) dengan **4 halaman**, **komponen reusable**, **state & props**, **React Hooks**, **navigasi bottom tab**, dan **penyimpanan data lokal**.
 
-> Status: seluruh file source code telah disusun dan diperiksa sintaks JSX-nya. Pengujian secara langsung di perangkat belum bisa dilakukan dari lingkungan pembuatan file ini, karena instalasi dependensi npm memerlukan internet. Ikuti langkah berikut, jalankan, lalu ambil screenshot asli sebelum mengumpulkan tugas.
-
 ## A. Persiapan (Windows)
 
 1. Pasang Node.js versi 22.13 atau lebih baru (disarankan Node.js LTS). Cek `node -v` dan `npm -v` di Terminal / PowerShell VS Code.
