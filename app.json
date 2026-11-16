@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "KampusKit",
+    "slug": "kampuskit-uts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": { "edgeToEdgeEnabled": true },
+    "experiments": { "tsconfigPaths": false }
+  }
+}
